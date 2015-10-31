@@ -1,0 +1,9 @@
+{
+    "name": "SESS",
+    "description": "SHLOKA EMPLOYEE SELF SERVICE",
+    "dependencies": {
+        "express": "~4.0.0",
+        "body-parser": "~1.0.1",
+        "multer": "~0.1.6"
+    }
+}
